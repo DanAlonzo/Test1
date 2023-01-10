@@ -5,6 +5,7 @@ public class TestSample {
 		System.out.println("java");
 		System.out.println("phython");
 		System.out.println("c#");
+		System.out.println("javascript");
 	}
 
 }
